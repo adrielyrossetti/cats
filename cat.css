@@ -1,0 +1,26 @@
+header{
+    background-color: yellow;
+    height: 40vh;
+}
+main{
+    background-color: violet;
+    height: 120vh;
+}
+aside{
+    background-color: rebeccapurple;
+    height: 120vh;
+}
+footer{
+    background-color: black;
+    height: 15vh;
+}
+aside .card{
+    margin-left: 45px;
+    border: 2px solid black;
+}
+nav{
+    background-color: blueviolet;
+}
+#img1{
+    margin-left: 50px;
+}
